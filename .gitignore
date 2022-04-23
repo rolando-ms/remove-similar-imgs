@@ -1,0 +1,6 @@
+#Intellij files
+*.idea
+
+#Other
+*.pyc
+*.ply
